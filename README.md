@@ -24,25 +24,9 @@ Core capabilities:
 - Visual explainability for audit and trust
 
 ## System Architecture
+<img width="2671" height="210" alt="image" src="https://github.com/user-attachments/assets/bc448711-8579-45d4-aad4-d2755af290e2" />
 
-Image Source (Camera / Upload)
-	|
-	v
-FastAPI Service
-	|
-	v
-Image Preprocessing (OpenCV)
-	|
-	v
-Deep Learning Inference (TensorFlow / Keras)
-	|
-	v
-Decision Policy Layer
-(Thresholds + Confidence Gating)
-	|
-	v
-Structured JSON Output
-(+ Optional Grad-CAM Explanation)
+Modular design supports integration into enterprise platforms, analytics pipelines, and consulting-led deployments.
 
 The architecture is intentionally modular to support integration into enterprise platforms, analytics pipelines, or consulting-led deployments.
 
