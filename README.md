@@ -8,19 +8,9 @@ The system combines computer vision, deep learning, explainability, and configur
 
 ## Business Context
 
-Manufacturing and industrial clients often rely on manual or semi-automated visual inspection processes that are:
-
-- Labor-intensive
-- Inconsistent
-- Difficult to scale
-
-This service addresses those challenges by providing a configurable, explainable AI-based inspection layer that can be deployed as an internal service or embedded into existing enterprise systems.
-
-Key focus areas:
-
-- Operational efficiency
-- Risk-controlled automation
-- Trustworthy AI adoption
+Manual visual inspection in manufacturing is slow, inconsistent, and hard to scale.
+This service provides an explainable AI inspection layer that integrates into existing systems while supporting controlled automation and trust.
+Focus: Efficiency, Risk control, Trustworthy AI adoption
 
 ## Solution Summary
 
