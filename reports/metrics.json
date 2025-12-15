@@ -1,0 +1,19 @@
+{
+  "test_size": 102,
+  "accuracy": 0.9411764705882353,
+  "precision_defect": 1.0,
+  "recall_defect": 0.75,
+  "f1_defect": 0.8571428571428571,
+  "roc_auc": 0.921474358974359,
+  "confusion_matrix": [
+    [
+      78,
+      0
+    ],
+    [
+      6,
+      18
+    ]
+  ],
+  "avg_batch_eval_latency_ms_per_image": 67.73049691144158
+}
